@@ -1,2 +1,2 @@
 # GeneralTools
-commnetools for java
+Java 常用工具类
